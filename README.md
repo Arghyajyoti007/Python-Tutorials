@@ -1,13 +1,14 @@
 # Python (An Overview)
 Born on the year 1980
 
-## What is it?
+## Overview 
+### What is it?
 - Interpreted Language
 - An Object Oriented Language 
 - High level Programming Language
 - Dynamically Typed Language
 
-## Why to use?
+### Why to use?
 - Simple Code Readibility
 - Extensive Standered Library Support
 - Cost Effective (Open Source)
@@ -16,7 +17,7 @@ Born on the year 1980
 - Simplify Complex Software Development
 - Compatable with Major Platforms
 
-## Key Features
+### Key Features
 - Easy to Learn and Use
 - Interactive
 - Interpreated
